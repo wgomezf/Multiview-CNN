@@ -10,5 +10,7 @@ Any use of these multiview CNN models, please cite:
 
 <ul><li>W. Gomez-Flores and Wagner. C. A. Pereira, "A Reconfigurable Multiview CNN for Breast Tumor Classification Using Intra- and Peritumoral Regions", in 22nd International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2025, pp. 1-6.</li></ul>
 
+<div style="text-align: center;">
 ![picture alt](https://github.com/wgomezf/Multiview-CNN/blob/main/miso.png "MV CNN")
+</p>
 
