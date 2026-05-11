@@ -8,7 +8,7 @@ Any use of these multiview CNN models, please cite:
 
 <ul><li>P.S. Maldonado-Salazar and W. Gomez-Flores, "Multiview Deep Neural Networks for Tumor Classification in Breast Imaging", in 19th Global Medical Engineering Physical Exchanges/Panamerican Healthcare Exchanges (GMEPE/PAHCE), Mexicali, Mexico, 2025, pp. 1-6, (DOI: https://doi.org/10.1109/GMEPE/PAHCE65777.2025.11002832).</li></ul>
 
-<ul><li>W. Gomez-Flores and Wagner. C. A. Pereira, "A Reconfigurable Multiview CNN for Breast Tumor Classification Using Intra- and Peritumoral Regions", in 22nd International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2025, pp. 1-6.</li></ul>
+<ul><li>W. Gomez-Flores and Wagner. C. A. Pereira, "A Reconfigurable Multiview CNN for Breast Tumor Classification Using Intra- and Peritumoral Regions", in 22nd International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2025, pp. 1-6, (DOI: https://doi.org/10.1109/CCE67728.2025.11271956).</li></ul>
 
 ![picture alt](https://github.com/wgomezf/Multiview-CNN/blob/main/miso.png "MV CNN")
 
